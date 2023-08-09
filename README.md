@@ -39,7 +39,7 @@ São duas abas, onde a primeira responde os dados solicitados acima e a segunda 
 
 Link: https://app.powerbi.com/groups/me/reports/f38b3907-2936-4a32-bfd9-192bca3d98da/ReportSection?experience=power-bi
 
-Link no One Drive do arquivo .pbix: 
+Link no One Drive do arquivo .pbix: https://1drv.ms/f/s!Am18BM21NkHg6hcpvb54e2MbIqHa?e=bDlihY
 
 Também subi os dados num servidor local no MySQL, deixarei aqui no repositório um diagrama de como isso está estruturado no BD.
 Preferi dessa forma pois facilitou a subida desses dados no Power BI.
