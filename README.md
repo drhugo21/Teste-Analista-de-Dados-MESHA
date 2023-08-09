@@ -37,7 +37,7 @@ Critérios avaliadas:
 Link do Dashboard com os dados solicitados abaixo. 
 São duas abas, onde a primeira responde os dados solicitados acima e a segunda trás mais alguns dados relevantes.
 
-Link: https://app.powerbi.com/groups/me/reports/f38b3907-2936-4a32-bfd9-192bca3d98da/ReportSection?experience=power-bi
+Link: https://bit.ly/45pDwO9
 
 Link no One Drive do arquivo .pbix: https://1drv.ms/f/s!Am18BM21NkHg6hcpvb54e2MbIqHa?e=bDlihY
 
